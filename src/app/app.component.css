@@ -1,0 +1,11 @@
+.footer {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.object {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
